@@ -1,0 +1,11 @@
+*.pyc
+*~
+*.zip
+*.tar
+*.gz
+*.log
+dist/
+build/
+*.nja
+.ninjaproject/
+virtualenv/

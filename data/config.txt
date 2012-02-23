@@ -1,0 +1,39 @@
+[options]
+# Background image.
+fname_background = background.jpg
+
+# Alarm image.
+fname_alarm = alarm.png
+
+# Alarm ring tone.
+fname_audio = alarm.mp3
+
+# Font name for the timer.
+fname_font = font.ttf
+
+# The list of available colors is in colors.txt.
+# Background color
+back_color = antiquewhite2
+
+# Text color
+text_color = black
+
+# Text background color. 
+# Comment this option to get a transparent background for the text.
+# text_back_color = antiquewhite1
+
+# Position of the timer text (pixels) from the center of the screen.
+text_x = 0
+text_y = 0
+
+# Ratio between the height of the screen and the height of the font.
+screen_font_ratio = 8
+
+# Animation speed (deg/s).
+animation_speed = 150
+
+# Lenght of the animation (s).
+animation_lenght = 3.5
+
+# Default starting point for the countdown (min).
+default_time = 30
